@@ -43,13 +43,13 @@ I'm a software engineer with a love for frontend web development. I'm currently 
         alt="YouTube Logo Badge"
     >
 </a>
-<a href="www.twitter.com/bytesofbree">
+<a href="https://www.twitter.com/bytesofbree">
     <img 
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
         alt="Twitter Logo Badge"
     >
 </a>
-<a href="www.instagram.com/bytesofbree">
+<a href="https://www.instagram.com/bytesofbree">
     <img 
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         alt="Instagram Logo Badge"
