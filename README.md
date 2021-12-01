@@ -6,15 +6,15 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 
 **Fun Facts**
 
-🌟 The first language I used to program "Hello World" was Java
+🌟  The first language I used to program "Hello World" was Java
 
-🧁 I've always loved baking and owned a cupcake business for a short period of time
+🧁  I've always loved baking and owned a cupcake business for a short period of time
 
-📚 I love Marvel movies and have recently started diving into the comics. My current favorite character is **Doctor Strange**
+📚  I love Marvel movies and have recently started diving into the comics. My current favorite character is **Doctor Strange**
 
-✈️ I love to travel to new places, but *somehow* always find myself booking trips to Disney World
+✈️  I love to travel to new places, but *somehow* always find myself booking trips to Disney World
 
-🎮 If I'm not coding or creating content, you'll likely find me playing a video game. My face game of all time is **The Legend of Zelda: Twilight Princess**, but the game I loved the most this year was **Persona 5: Royal**
+🎮  If I'm not coding or creating content, you'll likely find me playing a video game. My face game of all time is **The Legend of Zelda: Twilight Princess**, but the game I loved the most this year was **Persona 5: Royal**
 
 ---
 
