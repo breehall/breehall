@@ -37,7 +37,7 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 ## 🥳 Let's Get Social
 🌐 Follow me around the web!
 
-<a href="https://www.youtube.com/c/breehall">
+<a href="https://www.youtube.com/channel/UCCoKFWpai3OO1R0e_AHeNKA/">
     <img 
         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
         alt="YouTube Logo Badge"
