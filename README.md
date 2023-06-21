@@ -4,54 +4,95 @@
 
 I'm a software engineer with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I've made and lessons I've learned along my software engineering journey so far.
 
-**Fun Facts**
-
-🌟  The first language I used to program "Hello World" was Java
-
-🧁  I've always loved baking and owned a cupcake business for a short period of time
-
-📚  I love Marvel movies and have recently started diving into the comics. My current favorite character is **Doctor Strange**
-
-✈️  I love to travel to new places, but *somehow* always find myself booking trips to Disney World
-
-🎮  If I'm not coding or creating content, you'll likely find me playing a video game. My face game of all time is **The Legend of Zelda: Twilight Princess**, but the game I loved the most this year was **Persona 5: Royal**
-
----
-
-## 🔨 My Current Tech Stack
-![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-## ✏️ Currently Leanring
-🎨 **NextJS** - To build docs and my own blog
-
-🖥️ **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be *learning* JavaScript
-
----
-
-## 🥳 Let's Get Social
-🌐 Follow me around the web!
-
-<a href="https://www.youtube.com/channel/UCCoKFWpai3OO1R0e_AHeNKA">
-    <img 
-        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-        alt="YouTube Logo Badge"
-    >
-</a>
-<a href="https://www.twitter.com/bytesofbree">
-    <img 
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-        alt="Twitter Logo Badge"
-    >
-</a>
-<a href="https://www.instagram.com/bytesofbree">
-    <img 
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram Logo Badge"
-    >
-</a>
+<table>
+  <tr>
+    <td style="text-align: center; vertical-align: top;">
+        <h3>💫 Fun Facts</h3><br>
+        <p>☕️ <strong>Java</strong> was my the first programming language I learned!</p>
+        <p>🎮 When I'm not coding or creating content, you'll likely find me playing a video game. I'm currently playing <strong>The Legend of Zelda: Tears of the Kingdom</strong>.</p>
+        <p>🧁 I love baking and owned a <strong>cupcake</strong> business for a short period of time.</p>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+        <h3>💻 Languages & Tools</h3><br>
+        <img src="https://skillicons.dev/icons?i=html,css,sass,emotion,js,ts,react,nextjs,vercel,vscode,git,github&perline=4">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: top;"> 
+        <h3>📺 My Latest YouTube Video</h3><br>
+        <a href="https://youtu.be/hLGV3gz3c7w">
+            <img src="img/latest-thumb.png" alt="How to get developer experience and land your first role as a software enginner youtube video thumbnail">
+            How to Get Developer Experience & Land Your First Job as a Software Engineer
+        </a>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+        <h3>📚 My Favorite Tech Resources</h3><br>
+        <a href="https://bytesofbree.hashnode.dev/tech-resources">
+            <img src="img/tech-resources.png">
+            Resources to assist you in learning to code, prep for technical interviews, job boards, and more!
+        </a>
+    </td>
+   </tr> 
+   <tr>
+    <td style="vertical-align: top;">
+        <h3 style="text-align: center">📖 Currently Learning</h3><br>
+        <ul>
+            <li>Building design & skills with <strong>Figma</strong> </li>
+            <li><strong>CircuitPython</strong> to program an Adafruit Macropad</li>
+            <li>I'll be learning <strong>JavaScript</strong> <em>forever</em>! 😊 </li>
+        </ul>
+    </td>
+    <td style="text-align: center;">
+        <h3>👷🏾‍♀️ Currently Building</h3><br>
+        <img src="img/current-work.png" width="200px">
+        <p>I'm currently building an <a href="https://learn.adafruit.com/adafruit-macropad-rp2040/overview">Adafruit MacroPad</a> and I'll use CircuitPython to program it!</p> 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center"> 
+        <h3>🌐 Let's Connect!</h3><br>
+        <a href="https://www.youtube.com/@bytesofbree">
+            <img 
+                src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+                alt="YouTube Logo Badge"
+                style="border-radius: 4px;"
+            >
+        </a>
+        <a href="https://www.youtube.com/@bytesofbree">
+            <img 
+                src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
+                alt="TikTok Logo Badge"
+                style="border-radius: 4px;"
+            >
+        </a>
+        <a href="https://www.twitter.com/bytesofbree">
+            <img 
+                src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+                alt="Twitter Logo Badge"
+                style="border-radius: 4px;"
+            >
+        </a>
+        <a href="https://www.instagram.com/bytesofbree">
+            <img 
+                src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+                alt="Instagram Logo Badge"
+                style="border-radius: 4px;"
+            >
+        </a>
+        <a href="https://bytesofbree.hashnode.dev/">
+            <img 
+                src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white"
+                alt="Hashnode Logo Bagde"
+                style="border-radius: 4px;"
+            >
+        </a>
+        <a href="https://dev.to/bytesofbree">
+            <img 
+                src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"
+                alt="Hashnode Logo Bagde"
+                style="border-radius: 4px;"
+            >
+        </a>
+    </td>
+  </tr>
+</table>
