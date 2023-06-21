@@ -37,7 +37,7 @@ I'm a software engineer with a love for frontend web development. I'm currently 
     <td>
         <h3 style="text-align: center" align="center" valign="top">📖 Currently Learning</h3><br>
         <ul>
-            <li>Building design & skills with <strong>Figma</strong> </li>
+            <li>Building design skills with <strong>Figma</strong> </li>
             <li><strong>CircuitPython</strong> to program an Adafruit Macropad</li>
             <li>I'll be learning <strong>JavaScript</strong> <em>forever</em>! 😊 </li>
         </ul>
