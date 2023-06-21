@@ -6,27 +6,27 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 
 <table>
   <tr>
-    <td style="text-align: center; vertical-align: top;">
-        <h3>💫 Fun Facts</h3><br>
+    <td align="center">
+        <h3>💫 Fun Facts</h3>
         <p>☕️ <strong>Java</strong> was my the first programming language I learned!</p>
         <p>🎮 When I'm not coding or creating content, you'll likely find me playing a video game. I'm currently playing <strong>The Legend of Zelda: Tears of the Kingdom</strong>.</p>
         <p>🧁 I love baking and owned a <strong>cupcake</strong> business for a short period of time.</p>
     </td>
-    <td style="text-align: center; vertical-align: top;">
-        <h3>💻 Languages & Tools</h3><br>
-        <img src="https://skillicons.dev/icons?i=html,css,sass,emotion,js,ts,react,nextjs,vercel,vscode,git,github&perline=4">
+    <td align="center">
+        <h3>💻 Languages & Tools</h3>
+        <img style="text-align: center;" src="https://skillicons.dev/icons?i=html,css,sass,emotion,js,ts,react,nextjs,vercel,vscode,git,github&perline=4">
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: top;"> 
-        <h3>📺 My Latest YouTube Video</h3><br>
+    <td align="center"> 
+        <h3>📺 My Latest YouTube Video</h3>
         <a href="https://youtu.be/hLGV3gz3c7w">
             <img src="img/latest-thumb.png" alt="How to get developer experience and land your first role as a software enginner youtube video thumbnail">
             How to Get Developer Experience & Land Your First Job as a Software Engineer
         </a>
     </td>
-    <td style="text-align: center; vertical-align: top;">
-        <h3>📚 My Favorite Tech Resources</h3><br>
+    <td align="center">
+        <h3>📚 My Favorite Tech Resources</h3>
         <a href="https://bytesofbree.hashnode.dev/tech-resources">
             <img src="img/tech-resources.png">
             Resources to assist you in learning to code, prep for technical interviews, job boards, and more!
@@ -34,22 +34,22 @@ I'm a software engineer with a love for frontend web development. I'm currently 
     </td>
    </tr> 
    <tr>
-    <td style="vertical-align: top;">
-        <h3 style="text-align: center">📖 Currently Learning</h3><br>
+    <td>
+        <h3 style="text-align: center" align="center" valign="top">📖 Currently Learning</h3><br>
         <ul>
             <li>Building design & skills with <strong>Figma</strong> </li>
             <li><strong>CircuitPython</strong> to program an Adafruit Macropad</li>
             <li>I'll be learning <strong>JavaScript</strong> <em>forever</em>! 😊 </li>
         </ul>
     </td>
-    <td style="text-align: center;">
-        <h3>👷🏾‍♀️ Currently Building</h3><br>
+    <td align="center">
+        <h3>👷🏾‍♀️ Currently Building</h3>
         <img src="img/current-work.png" width="200px">
         <p>I'm currently building an <a href="https://learn.adafruit.com/adafruit-macropad-rp2040/overview">Adafruit MacroPad</a> and I'll use CircuitPython to program it!</p> 
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center"> 
+    <td colspan="2" align="center"> 
         <h3>🌐 Let's Connect!</h3><br>
         <a href="https://www.youtube.com/@bytesofbree">
             <img 
