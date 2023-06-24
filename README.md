@@ -11,6 +11,7 @@ I'm a software engineer with a love for frontend web development. I'm currently 
         <p>☕️ <strong>Java</strong> was my the first programming language I learned!</p>
         <p>🎮 When I'm not coding or creating content, you'll likely find me playing a video game. I'm currently playing <strong>The Legend of Zelda: Tears of the Kingdom</strong>.</p>
         <p>🧁 I love baking and owned a <strong>cupcake</strong> business for a short period of time.</p>
+        <br/>
     </td>
     <td align="center">
         <h3>💻 Languages & Tools</h3>
@@ -58,7 +59,7 @@ I'm a software engineer with a love for frontend web development. I'm currently 
                 style="border-radius: 4px;"
             >
         </a>
-        <a href="https://www.youtube.com/@bytesofbree">
+        <a href="https://www.tiktok.com/@bytesofbree">
             <img 
                 src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
                 alt="TikTok Logo Badge"
